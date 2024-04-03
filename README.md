@@ -16,4 +16,5 @@
 
 📫 Reach me here:
 
-![Top Langs](\nhttps://github-readme-stats.vercel.app/api/top-langs/?username=josevitor-ifpi&layout=compact&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor-ifpi&layout=compact&theme=dark)
