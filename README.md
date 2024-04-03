@@ -15,10 +15,7 @@
 </div>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor-ifpi&layout=compact&theme=dark)
 
 
 📫 Reach me here:
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor-ifpi&layout=compact&theme=dark)
