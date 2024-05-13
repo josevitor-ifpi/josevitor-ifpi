@@ -3,7 +3,7 @@
 - Acadêmico do 3° período de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí
 - Interesse no desenvolvimento Front-end
 
-🔭 Atualmente estudando:
+<h1>🔭 Atualmente estudando:</h1>
   <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,7 +16,7 @@
 </div>
 
 <div>
-<p>Contato</p>
+<h1>Contato</h1>
 <a href="https://www.instagram.com/jsevitorr_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
  ##
