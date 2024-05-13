@@ -22,11 +22,3 @@
 <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-ara%C3%BAjo-dias-oliveira-1552aa269/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  
- 
-
-
-
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitor-ifpi&theme=dark)](https://github.com/josevitor-ifpi/github-readme-stats)
-</div>
-
