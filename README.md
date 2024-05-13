@@ -1,7 +1,7 @@
 ## Olá! Eu sou José Vitor
 
-- Acadêmico do 3° período de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí (Campus Teresina Central)
-- Tenho interesse no desenvolvimento Front-end e UI Design
+- Acadêmico do 3° período de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí
+- Tenho interesse no desenvolvimento Front-end
 
 🔭 Estou atualmente estudando:
   <div style="display: inline_block"><br>
@@ -20,6 +20,6 @@
 
 
 
-/*![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor-ifpi&layout=compact&theme=dark)*\
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitor-ifpi&theme=dark)](https://github.com/josevitor-ifpi/github-readme-stats)
 
