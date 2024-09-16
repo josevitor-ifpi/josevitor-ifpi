@@ -1,7 +1,6 @@
 ## Olá! Eu sou José Vitor
 
 - Acadêmico do 3° período de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí
-- Interesse no desenvolvimento Front-end
 
 <h2>🔭 Atualmente estudando:</h2>
   <div style="display: inline_block"><br>
